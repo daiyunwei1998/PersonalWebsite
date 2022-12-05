@@ -1,32 +1,32 @@
 ---
 # Display name
-title: Yunwei Dai
+title: 戴運維
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: BSc Psychology
+role: 心理學學士
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: East China Normal University
+  - name: 華東師範大學
     #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cognitive Computational Neuroscience, Machine Learning, Deep Learning
+bio: 半路出家走上資料科學的道路，興趣是神經科學，愛好是深度學習。
 
 # Interests to show in About widget
 interests:
-  - Cognitive Computational Neuroscience
-  - Machine Learning
-  - Deep Learning
+  - 計算神經科學
+  - 機器學習/深度學習
+  - 人工智慧
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Psychology
-      institution: East China Normal University
+    - course: 心理學 學士
+      institution: 華東師範大學
       year: 2020
     #- course: MEng in Artificial Intelligence
     #  institution: Massachusetts Institute of Technology
@@ -70,7 +70,8 @@ email: ''
 highlight_name: true
 ---
 
-Yunwei Dai is a computational neuroscience student, a self-taught progammer and a machine learning practicer. During his bachelor study, he focus on electrophisiological data analysis (EEG and fNIRs). Recently, he dives into deep learning and has started a youtube channel called  [{{< icon name="youtube" pack="fab" >}}貓的神經網路](https://www.youtube.com/@neuralneko), where he would share interesting topics in deep learning and cognitive neuroscience.
+你好，我叫戴運維，是一名計算神經科學學生。大學主修心理學時接觸到神經科學，對人類認知系統和其神經基礎產生了不菲的興趣，又因為專業的原因廣泛涉獵資料科學，現在儼然是一名資工學生。我主要接觸腦電波(EEG)和近紅外成像(fNIRs)等研究手段，對深度學習也不陌生。我正在建立一個youtube頻道
+[{{< icon name="youtube" pack="fab" >}}貓的神經網路](https://www.youtube.com/@neuralneko), 希望在學習之餘分享關於機器學習和認知神經科學的有趣話題。
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé (working on it){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 我的履歷還沒有整理好 {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé (working on it){{< /staticref >}}.
