@@ -49,10 +49,10 @@ item:
     url: ''
   - certificate_url: uploads/coursera-dl.pdf
     date_end: ''
-    date_start: '2022-07-29'
+    date_start: '2023-04-16'
     description: Deep Learning Specialization offered by Deeplearning.AI
     organization: Coursera
-    organization_url: https://www.coursera.org/account/accomplishments/specialization/JGCJWXRZ27EX
+    organization_url: https://www.deeplearning.ai/
     title: Deep Learning
     url: ''
 
